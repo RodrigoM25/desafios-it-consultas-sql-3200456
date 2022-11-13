@@ -2,9 +2,11 @@
 
 Este es el repositorio del curso de LinkedIn Learning `[Desafíos IT: consultas SQL]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
-![image](https://user-images.githubusercontent.com/71371373/192804654-c16835c1-f598-4935-9884-b0094bab7063.png)
+![Desafíos IT: consultas SQL][lil-thumbnail-url][Copy&Past Image from LiL-Buddy] 
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
+
+DESCRIPCIÓN DEL CURSO
 
 Expande tus conocimientos y refuerza tus habilidades de SQL por medio de ejercicios prácticos con este contenido. El curso tiene como objetivo resolver ejercicios de SQL de distintas dificultades, planteados de menos a más, para poner en práctica y retar todo lo que crees saber sobre este lenguaje. Durante la formación te enfrentarás a dos bases de datos y muchos retos que debes completar sobre ellas. Primero se te planteará el desafío, después se te ofrece la solución para que puedas comprobar tus resultados.
 ## Instrucciones
@@ -18,18 +20,16 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 ## Instalación
 
 1. Para utilizar estos archivos de ejercicios, debes tener descargado lo siguiente:
-   - MySQL 8.0.28
-   - MySQL Workbench
+   - [software]
 
 2. Clona este repositorio en tu máquina local usando la Terminal (macOS) o CMD (Windows), o una herramienta GUI como SourceTree.
-3. Descarga las bases de datos Bicicleta.db.sql y Cine.db.sql.
-4. Resuelve los desafíos y luego puedes comparar tus query con los proporcionados en el curso.
+3. [Instrucciones específicas del curso].
 
 ### Docente
 
 **Lincy González Rojas**
 
-Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/lincy-gonzalez-rojas).
+Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/lincy-gonzalez-rojas/).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/desafios-it-consultas-sql/aprende-sobre-consultas-sql-con-ejemplos-practicos
